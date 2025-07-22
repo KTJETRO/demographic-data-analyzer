@@ -29,38 +29,6 @@ results = calculate_demographic_data(print_data=True)
 
 ---
 
-Sample Output
-
-Number of each race:
- White                 27816
-Black                  3124
-Asian-Pac-Islander     1039
-Amer-Indian-Eskimo      311
-Other                   271
-Average age of men: 39.4
-Percentage with Bachelors degrees: 16.4
-Higher education rich: 46.5
-Lower education rich: 17.4
-Overall rich percentage: 23.5
-Min work time: 1 hours/week
-Rich among min workers: 10.0
-Country with highest % rich: Iran
-Highest %: 41.9
-Top IN occupation: Prof-specialty
-
----
-
-Project Structure
-
-boilerplate-demographic-data-analyzer/
-•	adult.data.csv           # Dataset (1994 Census data)
-•	demographic_data_analyzer.py # Main logic function
-•	main.py                      # Script to run and test the function
-•	test_module.py               # Unit tests (used by freeCodeCamp)
-•	README.md                    # This file
-
-
----
 
 How to Run the Project
 
